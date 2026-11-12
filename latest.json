@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "name": "1.4",
-  "apk": "apk/Ponto-v1.4.apk",
-  "notes": "O almoço desconta sempre 1 hora; o que passar de 1 hora aparece para justificar."
+  "versionCode": 6,
+  "name": "1.5",
+  "apk": "apk/Ponto-v1.5.apk",
+  "notes": "Dias trabalhados fora dos dias obrigatórios passam a contar as horas todas (exigido 7h)."
 }
