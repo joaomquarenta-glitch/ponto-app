@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "name": "1.19",
-  "apk": "apk/Ponto-v1.19.apk",
-  "notes": "Contador fixo no ecrã de bloqueio com a hora das 7h e botão de picar; hora das 7h no círculo; aviso antes de sair sem 7h; dia em curso no histórico; barras com cor por resultado."
+  "versionCode": 21,
+  "name": "1.20",
+  "apk": "apk/Ponto-v1.20.apk",
+  "notes": "Botão de picar: manter premido, máximo 4 por dia, desligado ao fim de semana e feriados, confirmação no widget e nas definições rápidas. Justificação do almoço. Widget com tempo a contar. Sexta-feira: hora para fechar a semana a zero e resumo."
 }
