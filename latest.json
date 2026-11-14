@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "name": "1.16",
-  "apk": "apk/Ponto-v1.16.apk",
-  "notes": "Exportar o mês para PDF e Excel a partir do Histórico."
+  "versionCode": 18,
+  "name": "1.17",
+  "apk": "apk/Ponto-v1.17.apk",
+  "notes": "Conquistas e série de dias sem falhas na Página inicial."
 }
