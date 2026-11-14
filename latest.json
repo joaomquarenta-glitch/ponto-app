@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "name": "1.12",
-  "apk": "apk/Ponto-v1.12.apk",
-  "notes": "O 7 passa a ter o formato normal em toda a app."
+  "versionCode": 14,
+  "name": "1.13",
+  "apk": "apk/Ponto-v1.13.apk",
+  "notes": "A app pede a taxa máxima do ecrã (ex.: 120 Hz) e guarda a foto de perfil com mais resolução."
 }
