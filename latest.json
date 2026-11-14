@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "name": "1.13",
-  "apk": "apk/Ponto-v1.13.apk",
-  "notes": "A app pede a taxa máxima do ecrã (ex.: 120 Hz) e guarda a foto de perfil com mais resolução."
+  "versionCode": 15,
+  "name": "1.14",
+  "apk": "apk/Ponto-v1.14.apk",
+  "notes": "Feriados nacionais automáticos, férias por intervalo, baixa e faltas."
 }
