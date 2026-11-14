@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "name": "1.20",
-  "apk": "apk/Ponto-v1.20.apk",
-  "notes": "Botão de picar: manter premido, máximo 4 por dia, desligado ao fim de semana e feriados, confirmação no widget e nas definições rápidas. Justificação do almoço. Widget com tempo a contar. Sexta-feira: hora para fechar a semana a zero e resumo."
+  "versionCode": 22,
+  "name": "1.21",
+  "apk": "apk/Ponto-v1.21.apk",
+  "notes": "Saída depois das 20h fica a verde (os minutos depois das 20:00 não contam). Férias marcam todos os dias de segunda a sexta. Novo mapa de férias em ecrã inteiro, também na horizontal."
 }
