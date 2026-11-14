@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "name": "1.17",
-  "apk": "apk/Ponto-v1.17.apk",
-  "notes": "Conquistas e série de dias sem falhas na Página inicial."
+  "versionCode": 19,
+  "name": "1.18",
+  "apk": "apk/Ponto-v1.18.apk",
+  "notes": "Cópia de segurança: guardar tudo num ficheiro (ex.: Google Drive) e repor noutro telemóvel."
 }
