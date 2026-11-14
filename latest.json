@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "name": "1.14",
-  "apk": "apk/Ponto-v1.14.apk",
-  "notes": "Feriados nacionais automáticos, férias por intervalo, baixa e faltas."
+  "versionCode": 16,
+  "name": "1.15",
+  "apk": "apk/Ponto-v1.15.apk",
+  "notes": "Banco de horas e previsão do dia (7h/8h/9h) na Página inicial, e aviso às 20:15 se faltar a saída."
 }
