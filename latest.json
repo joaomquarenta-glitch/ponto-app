@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "name": "1.7",
-  "apk": "apk/Ponto-v1.7.apk",
-  "notes": "Anel de progresso animado das 7h, partículas néon no fundo e transições suaves entre ecrãs."
+  "versionCode": 9,
+  "name": "1.8",
+  "apk": "apk/Ponto-v1.8.apk",
+  "notes": "Widget no ecrã inicial, ícone com a cor do tema, e picar sem abrir a app (atalho do ícone e botão na barra de cima)."
 }
