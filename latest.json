@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "name": "1.9",
-  "apk": "apk/Ponto-v1.9.apk",
-  "notes": "Detalhe do dia ao tocar numa barra do Balanço (4 picagens editáveis + saldo). Aviso ao chegar/sair do local de trabalho."
+  "versionCode": 11,
+  "name": "1.10",
+  "apk": "apk/Ponto-v1.10.apk",
+  "notes": "Instalação de atualizações mais fiável (com botão Abrir no navegador). Gráfico do saldo acumulado e mapa de calor do ano."
 }
