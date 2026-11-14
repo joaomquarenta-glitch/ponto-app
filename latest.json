@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "name": "1.11",
-  "apk": "apk/Ponto-v1.11.apk",
-  "notes": "Sinal diferente às 7h, 8h e 9h de trabalho, com o número a rodar em néon no ecrã inteiro."
+  "versionCode": 13,
+  "name": "1.12",
+  "apk": "apk/Ponto-v1.12.apk",
+  "notes": "O 7 passa a ter o formato normal em toda a app."
 }
