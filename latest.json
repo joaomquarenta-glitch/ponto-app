@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "name": "1.10",
-  "apk": "apk/Ponto-v1.10.apk",
-  "notes": "Instalação de atualizações mais fiável (com botão Abrir no navegador). Gráfico do saldo acumulado e mapa de calor do ano."
+  "versionCode": 12,
+  "name": "1.11",
+  "apk": "apk/Ponto-v1.11.apk",
+  "notes": "Sinal diferente às 7h, 8h e 9h de trabalho, com o número a rodar em néon no ecrã inteiro."
 }
