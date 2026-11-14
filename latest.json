@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "name": "1.8",
-  "apk": "apk/Ponto-v1.8.apk",
-  "notes": "Widget no ecrã inicial, ícone com a cor do tema, e picar sem abrir a app (atalho do ícone e botão na barra de cima)."
+  "versionCode": 10,
+  "name": "1.9",
+  "apk": "apk/Ponto-v1.9.apk",
+  "notes": "Detalhe do dia ao tocar numa barra do Balanço (4 picagens editáveis + saldo). Aviso ao chegar/sair do local de trabalho."
 }
