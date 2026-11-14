@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "name": "1.18",
-  "apk": "apk/Ponto-v1.18.apk",
-  "notes": "Cópia de segurança: guardar tudo num ficheiro (ex.: Google Drive) e repor noutro telemóvel."
+  "versionCode": 20,
+  "name": "1.19",
+  "apk": "apk/Ponto-v1.19.apk",
+  "notes": "Contador fixo no ecrã de bloqueio com a hora das 7h e botão de picar; hora das 7h no círculo; aviso antes de sair sem 7h; dia em curso no histórico; barras com cor por resultado."
 }
