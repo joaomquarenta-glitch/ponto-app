@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "name": "1.6",
-  "apk": "apk/Ponto-v1.6.apk",
-  "notes": "Alarme fácil de parar: botão grande PARAR, botões de volume ou de ligar, deslizar a notificação. Para sozinho ao fim de 1 minuto. Opção para avisar só com vibração."
+  "versionCode": 8,
+  "name": "1.7",
+  "apk": "apk/Ponto-v1.7.apk",
+  "notes": "Anel de progresso animado das 7h, partículas néon no fundo e transições suaves entre ecrãs."
 }
