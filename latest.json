@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "name": "1.15",
-  "apk": "apk/Ponto-v1.15.apk",
-  "notes": "Banco de horas e previsão do dia (7h/8h/9h) na Página inicial, e aviso às 20:15 se faltar a saída."
+  "versionCode": 17,
+  "name": "1.16",
+  "apk": "apk/Ponto-v1.16.apk",
+  "notes": "Exportar o mês para PDF e Excel a partir do Histórico."
 }
