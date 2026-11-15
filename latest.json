@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "name": "1.23",
-  "apk": "apk/Ponto-v1.23.apk",
-  "notes": "Mapa de férias: o mês na horizontal já cabe todo no ecrã (sem dias cortados). Botões do Histórico todos com o mesmo tamanho."
+  "versionCode": 25,
+  "name": "1.24",
+  "apk": "apk/Ponto-v1.24.apk",
+  "notes": "Mapa de férias: passa a ser desenhado dentro da própria app (não numa janela à parte), para todos os dias do mês caberem no ecrã."
 }
