@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "name": "1.27",
-  "apk": "apk/Ponto-v1.27.apk",
-  "notes": "Posso sair às… (7h, semana a zero, banco a zero); confirmação animada e vibração ao picar; resumo do mês no último dia útil com PDF pronto a partilhar."
+  "versionCode": 29,
+  "name": "1.28",
+  "apk": "apk/Ponto-v1.28.apk",
+  "notes": "Ícone novo: relógio néon com os ponteiros em forma de visto, na cor do tema."
 }
