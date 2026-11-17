@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "name": "1.25",
-  "apk": "apk/Ponto-v1.25.apk",
-  "notes": "Mapa de férias na vertical: um mês inteiro em mosaicos de vidro, desliza para mudar de mês, dia escolhido a dourado. Segunda e terça com horário fixo 9-12/13-18: contam sozinhas no balanço, sem alarmes nem botão de picar (alterável em Definições)."
+  "versionCode": 27,
+  "name": "1.26",
+  "apk": "apk/Ponto-v1.26.apk",
+  "notes": "Linha do dia no Início com a hora das 7h; Histórico em calendário de vidro (toca num dia para o corrigir); saldo de férias do ano (dias gozados, marcados e por marcar)."
 }
