@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "name": "1.26",
-  "apk": "apk/Ponto-v1.26.apk",
-  "notes": "Linha do dia no Início com a hora das 7h; Histórico em calendário de vidro (toca num dia para o corrigir); saldo de férias do ano (dias gozados, marcados e por marcar)."
+  "versionCode": 28,
+  "name": "1.27",
+  "apk": "apk/Ponto-v1.27.apk",
+  "notes": "Posso sair às… (7h, semana a zero, banco a zero); confirmação animada e vibração ao picar; resumo do mês no último dia útil com PDF pronto a partilhar."
 }
